@@ -1,0 +1,15 @@
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\bin\Debug\net7.0\YansitmaProgrami.exe
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\bin\Debug\net7.0\YansitmaProgrami.deps.json
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\bin\Debug\net7.0\YansitmaProgrami.runtimeconfig.json
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\bin\Debug\net7.0\YansitmaProgrami.dll
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\bin\Debug\net7.0\YansitmaProgrami.pdb
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.csproj.AssemblyReference.cache
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.AssemblyInfoInputs.cache
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.AssemblyInfo.cs
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.dll
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\refint\YansitmaProgrami.dll
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.pdb
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\YansitmaProgrami.genruntimeconfig.cache
+C:\Users\excalibur\Desktop\c#\YansitmaProgrami\obj\Debug\net7.0\ref\YansitmaProgrami.dll
